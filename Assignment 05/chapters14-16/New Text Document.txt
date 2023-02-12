@@ -1,0 +1,27 @@
+// 1. Declare an empty array using JS literal notation to store student names in future.
+
+var s_name = [];
+document.write(s_name);
+
+document.write(<br />);
+document.write(<br />);
+document.write(<br />);
+
+// 2. Declare an empty array using JS object notation to store student names in future.
+
+var s_name = new Array();
+document.write(s_name);
+
+document.write(<br />);
+document.write(<br />);
+document.write(<br />);
+
+// 3. Declare and initialize a strings array.
+
+var s_name = ["John", "Jane", "Mary"];
+document.write(s_name);
+document.write(s_name.length);
+
+document.write(<br />);
+document.write(<br />);
+document.write(<br />);
